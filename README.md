@@ -8,9 +8,8 @@ Uma página para auxílio na reciclagem de ítens.
 Front-end e Back-end
 
 Usado:
-HTML
-CSS
-JavaScript
-
-Node.js
+HTML, 
+CSS, 
+JavaScript,
+Node.js e 
 SQLite3
